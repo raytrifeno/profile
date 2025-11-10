@@ -41,6 +41,6 @@ projects:
   - Absen App (React + Flask + MySQL + Google OAuth + JWT) : in_development
   - Blog Website (Laravel + Bootstrap + Filament) : finished
   - RayRent (React + Tailwind + Framer Motion) : in_progress
+  - HMPTIxDCN (TBD) : active
   - Toko Online (HTML/CSS/JS + React) : finished_basic
-  - Apotek Desktop App (C# .NET + WPF) : in_development
   - SVM Classification (Python + Scikit-Learn) : finished

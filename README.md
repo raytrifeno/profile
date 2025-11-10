@@ -1,228 +1,223 @@
-# 📁 What’s inside
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                           ⚡ HACKER PROFILE v2.0 ⚡                              -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-This canvas contains:
+<div align="center">
 
-1. `README.md` — a modern, neon–hacker–themed profile README tailored for **@raytrifeno** (a.k.a. Nero_)
-2. `.github/workflows/snake.yml` — GitHub Actions workflow to render the animated **contribution snake**
-3. `.github/workflows/metrics.yml` — GitHub Actions workflow to render **lowlighter/metrics** infographics (optional but powerful)
-4. Notes on **Pins**, **Profile settings**, and optional add‑ons (trophies, typing SVG, header banner) to reach a cohesive “hacker” vibe.
-
----
-
-## 1) README.md
-
-```markdown
-<!-- PROFILE HEADER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=240&color=0:0a0a0a,100:111827&text=Nero_%20%7C%20Ray%20Trifeno&fontColor=00ff88&fontSize=48&fontAlign=50&fontAlignY=38&desc=he/him%20%E2%80%A2%20Informatics%20Engineer%20%E2%80%A2%20PTI%20Teaching%20Assistant&descAlign=50&descAlignY=63" alt="header" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=00FF88&center=true&vCenter=true&width=900&lines=%24+whoami+%3A+Ray+Trifeno+(Nero_)%3B%24+cat+mission.txt+%3A+Build+clean+UI%2FUX%2C+teach+PTI%2C+ship+useful+apps%3B%24+echo+stack+%3A+React%2C+Tailwind%2C+Flask%2C+.NET%2C+Java%3B%24+status+%3A+learning+%F0%9F%92%AA%2C+shipping+%F0%9F%9A%80"/>
-</p>
-
-<!-- BADGES / QUICK FACTS -->
-<p align="center">
-  <a href="https://raysurualing.me"><img alt="Website" src="https://img.shields.io/badge/portfolio-raysurualing.me-00ff88?style=for-the-badge&logo=vercel&logoColor=111827"></a>
-  <img alt="Role" src="https://img.shields.io/badge/PTI-Assistant-00ff88?style=for-the-badge&labelColor=0a0a0a">
-  <img alt="Based" src="https://img.shields.io/badge/Salatiga-ID-00ff88?style=for-the-badge&labelColor=0a0a0a">
-  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=raytrifeno&style=for-the-badge&color=00ff88&label=visitors">
-</p>
-
----
-
-### 👨‍💻 About
-- Informatics Engineering at **FTI UKSW** • **PTI Teaching Assistant** (Class B)
-- Projects: **Absen App** (React + Flask), **RayRent** (React), **VELSA** (React/TS), **Apotek** (WPF .NET 8), plus ML/Fuzzy tasks
-- UI/UX via **Figma** & **Framer** (prototyping + motion)
-- Built a **Blog** with **Laravel + Bootstrap + Filament**
-
-<details>
-<summary><b>⚙️ Tech Stack</b></summary>
-
-**Frontend**: React (Vite), TS/JS, Tailwind, Framer Motion  
-**Backend**: Flask / FastAPI, .NET 8 (C#), Node/Express  
-**Data/AI**: Python, pandas, scikit‑learn, matplotlib  
-**DevOps**: GitHub Actions, Docker (basic), DigitalOcean  
-**Other**: Figma, Postman, Google Classroom API
-</details>
-
----
-
-### 🐧 Linux & Security Tooling
-- Daily driver: **Linux** (Ubuntu/Debian) & **WSL**, terminal-first workflow.
-- Tooling I actually use: **nmap**, **Metasploit**, **Wireshark**, **John the Ripper**, **Ghidra**.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-0a0a0a?labelColor=0a0a0a&color=00ff88" />
-  <img src="https://img.shields.io/badge/nmap-0a0a0a?labelColor=0a0a0a&color=00ff88" />
-  <img src="https://img.shields.io/badge/Metasploit-0a0a0a?labelColor=0a0a0a&color=00ff88" />
-  <img src="https://img.shields.io/badge/Wireshark-0a0a0a?labelColor=0a0a0a&color=00ff88" />
-  <img src="https://img.shields.io/badge/John%20the%20Ripper-0a0a0a?labelColor=0a0a0a&color=00ff88" />
-  <img src="https://img.shields.io/badge/Ghidra-0a0a0a?labelColor=0a0a0a&color=00ff88" />
-</p>
-
-> Note: the tools above are for **learning and local labs**. Always follow laws and ethics (authorized testing only).
-
----
-
-### 📊 Stats (Dark / Hacker theme)
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=raytrifeno&show_icons=true&hide_border=true&theme=chartreuse-dark&bg_color=0a0a0a&icon_color=00ff88&title_color=00ff88&text_color=cdd6f4" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=raytrifeno&theme=holi-theme&hide_border=true&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raytrifeno&layout=compact&hide_border=true&theme=chartreuse-dark&bg_color=0a0a0a&title_color=00ff88&text_color=cdd6f4" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raytrifeno&theme=matrix&no-frame=true&column=6" alt="trophies" /></a>
-</p>
-
----
-
-### 🐍 Contribution Snake
-> Generated automatically via GitHub Actions
-
-<p align="center">
-  <img src="./assets/snake.svg" alt="snake" />
-</p>
-
----
-
-### 🚀 Featured Work
-- **Absen App** — attendance + grades (React + Flask, Google OAuth/JWT)
-- **RayRent** — car rental site (React + Tailwind)
-- **VELSA** — clothing brand site (React/TS, Figma‑driven UI)
-- **Apotek** — WPF .NET 8 dashboard app
-
-- **Blog Website** — Laravel + Bootstrap + Filament (fast admin panel with Filament)
-- **HMPTI x DCN** — Vite (React, JavaScript) — *in progress*
-
-> Pin your top repos in **Profile → Customize your pins** for a slick grid on this page.
-
----
-
-### 📫 Contact
-- Website: **raysurualing.me**  
-- Email: **672024232@student.uksw.edu**
-
----
-
-<sub>Theme: neon green on black • fonts: JetBrains Mono / Fira Code • tuned for GitHub dark mode</sub>
+```
+███╗   ██╗███████╗██████╗  ██████╗      
+████╗  ██║██╔════╝██╔══██╗██╔═══██╗     
+██╔██╗ ██║█████╗  ██████╔╝██║   ██║     
+██║╚██╗██║██╔══╝  ██╔══██╗██║   ██║     
+██║ ╚████║███████╗██║  ██║╚██████╔╝     
+╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝ ╚═════╝      
+    Ray Trifeno // System Engineer
 ```
 
----
+</div>
 
-## 2) .github/workflows/snake.yml
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,12,20&text=ACCESS%20GRANTED&fontSize=42&fontColor=00ff88&animation=fadeIn&fontAlignY=38&desc=⚡%20Initializing%20Profile...%20█████████░%2090%25&descSize=18&descAlignY=55" alt="header" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF88&center=true&vCenter=true&random=false&width=600&lines=root%40nero%3A~%24+whoami;Ray+Trifeno+%7C+Informatics+Engineer;root%40nero%3A~%24+cat+status.log;PTI+Teaching+Assistant+%E2%80%A2+Full+Stack+Dev;root%40nero%3A~%24+echo+%24MODE;%5BHACKER+MODE+ACTIVATED%5D+%F0%9F%94%A5" alt="Typing SVG" />
+</p>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-raysurualing.me-00ff88?style=for-the-badge&labelColor=000000&color=00ff88)](https://raysurualing.me)
+![Status](https://img.shields.io/badge/STATUS-ONLINE-00ff88?style=for-the-badge&labelColor=000000&logo=statuspage&logoColor=00ff88)
+![Location](https://img.shields.io/badge/BASED_IN-Salatiga,_ID-00ff88?style=for-the-badge&labelColor=000000&logo=google-maps&logoColor=00ff88)
+![Visitors](https://komarev.com/ghpvc/?username=raytrifeno&style=for-the-badge&color=00ff88&label=VISITORS&labelColor=000000)
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+## 🖥️ `[SYSTEM.INIT]` // About Me
+
+```bash
+$ cat /home/nero/profile.txt
+```
 
 ```yaml
-name: Generate Snake
+name: "Ray Trifeno Surualing"
+alias: "Nero_"
+role: "Informatics Engineer | PTI Teaching Assistant"
+university: "FTI UKSW"
+location: "Salatiga, Indonesia"
+status: "Building cool stuff 🚀"
 
-on:
-  schedule:
-    - cron: "0 */12 * * *"   # twice a day
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Generate snake (SVG)
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/snake.svg
-
-      - name: Move to assets/
-        run: |
-          mkdir -p assets
-          mv dist/snake.svg assets/snake.svg
-
-      - name: Commit & push
-        uses: EndBug/add-and-commit@v9
-        with:
-          add: "assets/snake.svg"
-          message: "chore: update contribution snake"
+interests:
+  - Full Stack Development (React, Flask, .NET)
+  - UI/UX Design (Figma, Framer)
+  - Cybersecurity Tools (nmap, Metasploit, Wireshark)
+  - Machine Learning & Data Science
+  
+current_focus:
+  - 📱 Absen App (React + Flask + JWT)
+  - 🏠 RayRent Platform (React + Tailwind)
+  - 🎓 HMPTIxDCN Project
+  - 📝 Blog Platform (Laravel + Filament)
 ```
 
----
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-## 3) .github/workflows/metrics.yml (optional)
+## ⚡ `[TECH.STACK]` // Arsenal
 
-```yaml
-name: Metrics
+<div align="center">
 
-on:
-  schedule:
-    - cron: "30 1 * * *"   # daily
-  workflow_dispatch:
+### 🎨 Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
-jobs:
-  github-metrics:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          # A classic fine-grained PAT with public_repo (or just repo) is enough for public data
-          token: ${{ secrets.METRICS_TOKEN }}
+### ⚙️ Backend Development
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-          # Basic
-          user: raytrifeno
-          template: classic
-          base: header, repositories
-          config_timezone: Asia/Jakarta
-          filename: assets/metrics.svg
+### 💾 Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-          # Plugins (choose your vibe)
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_languages: yes
-          plugin_languages_sections: most-used
-          plugin_languages_limit: 8
+### 🔒 Security Tools
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+### 🛠️ DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+## 🚀 `[PROJECTS.DB]` // Featured Work
+
+<div align="center">
+
+| Project | Stack | Status | Link |
+|---------|-------|--------|------|
+| 📱 **Absen App** | React + Flask + MySQL + JWT | `🟢 In Dev` | [→](#) |
+| 🏠 **RayRent** | React + Tailwind + Framer Motion | `🟡 In Progress` | [→](#) |
+| 🎓 **HMPTIxDCN** | TBD | `🔵 Active` | [→](#) |
+| 📝 **Blog Platform** | Laravel + Filament + Bootstrap | `✅ Live` | [→](#) |
+| 🤖 **SVM Classification** | Python + Scikit-Learn | `✅ Completed` | [→](#) |
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+## 📊 `[STATS.SYS]` // GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=raytrifeno&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff&border_radius=10" alt="GitHub Stats" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raytrifeno&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&border_radius=10" alt="Top Languages" height="170" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=raytrifeno&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&border_radius=10" alt="GitHub Streak" />
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+## 🐍 `[CONTRIB.MATRIX]` // Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raytrifeno/raytrifeno/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raytrifeno/raytrifeno/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/raytrifeno/raytrifeno/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+## 🏆 `[ACHIEVEMENTS.LOG]` // Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=raytrifeno&theme=matrix&no-frame=true&no-bg=true&margin-w=15&column=7&rank=-C,-?,-UNKNOWN" alt="GitHub Trophies" />
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+## 📡 `[NETWORK.SCAN]` // Connect With Me
+
+<div align="center">
+
+```bash
+$ nmap -sV --script=banner raytrifeno.social
 ```
 
-> After it runs once, you can embed the SVG like: `![metrics](assets/metrics.svg)` under **Stats**.
-
----
-
-## 4) How to apply
-
-1. Create a **special repo** named exactly like your username: `raytrifeno/raytrifeno` → add the `README.md` above.
-2. Create the folders: `.github/workflows/` and `assets/` in that repo. Add the `snake.yml` (and optionally `metrics.yml`).
-3. For metrics, create a **fine‑grained PAT** → repo scope → add to repo **Secrets** as `METRICS_TOKEN`.
-4. Commit & push, then run each workflow via the **Actions** tab once. The images will appear.
-5. Go to **Profile → Customize your pins** and pin: `PTI-B`, `project-app`, `coba`, `CodingCamp-06102025-…`, and your **new token‑DCN** repo for recency.
-6. Settings → **Appearance**: keep **Dark Default**; avatar with a slight green tint works well with this theme.
-
----
-
-## Optional Add‑ons
-
-* **Headers** via `capsule-render` (already used in README). You can tweak `theme` and `desc`.
-* **Typing hero** via `readme-typing-svg` (already used). Change the lines to show current focus.
-* **Trophies** via `github-profile-trophy` (already used). You can filter trophies with `&rank=S,SSS,…`.
-* **Badges** via `shields.io` for stack, tools, and socials.
-* **WakaTime** section if you actively track coding time.
-
----
-
-## Visual tips for the “Hacker” vibe
-
-* Colors: `#00FF88` (primary neon), `#0a0a0a` / `#111827` (bg), `#cdd6f4` (text).
-* Font: Monospace (JetBrains Mono / Fira Code).
-* Keep imagery minimal; rely on SVG widgets for motion.
-* Short, punchy copy that looks like terminal commands.
-
-```text
-$ git commit -m "style: hacker theme, neon matrix, clean layout"
-$ git push origin main
 ```
+PORT     STATE SERVICE     VERSION
+443/tcp  open  https       Portfolio Website
+├── 🌐 Website: https://raysurualing.me
+└── 📧 Email: [Your Email]
+
+Social Networks Detected:
+├── 💼 LinkedIn: [Your LinkedIn]
+├── 📷 Instagram: [Your Instagram]  
+└── 💬 Discord: [Your Discord]
+
+[+] All services responding...
+[+] Connection established ✓
+```
+
+[![Portfolio](https://img.shields.io/badge/Website-raysurualing.me-00ff88?style=for-the-badge&logo=vercel&logoColor=white)](https://raysurualing.me)
+[![GitHub](https://img.shields.io/badge/GitHub-raytrifeno-00ff88?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raytrifeno)
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+```
+╔════════════════════════════════════════════════════════════╗
+║  > ACCESS LEVEL: FULL                                      ║
+║  > CONNECTION: SECURE                                      ║
+║  > STATUS: ██████████ 100% LOADED                         ║
+║                                                            ║
+║  "Code is like humor. When you have to explain it,        ║
+║   it's bad." - Cory House                                  ║
+║                                                            ║
+║  Made with 💚 by Nero_ // 2025                            ║
+╚════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,12,20&section=footer" />
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/raytrifeno/raytrifeno/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
